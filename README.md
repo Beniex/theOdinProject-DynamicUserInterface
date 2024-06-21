@@ -1,5 +1,6 @@
-# theOdinProject-Template
-this repo is a template of a working html css js project with a server 
+# theOdinProject-Dynamic USer Interface
+
+a drop down menu and a caroussel 
 
 list of command used : 
 
